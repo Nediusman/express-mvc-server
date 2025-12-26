@@ -1,0 +1,24 @@
+{
+  "name": "nedi-express-mvc-server",
+  "version": "1.0.0",
+  "description": "Professional Express.js server with MVC pattern by NEDI USMAN HUSSEN",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": ["express", "mvc", "backend", "web-development", "cybersecurity"],
+  "author": "NEDI USMAN HUSSEN <nediusman92@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nediusman/express-mvc-server"
+  },
+  "homepage": "https://github.com/Nediusman/express-mvc-server#readme"
+}
