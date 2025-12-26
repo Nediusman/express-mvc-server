@@ -14,7 +14,7 @@ A professional Express.js server built following the MVC (Model-View-Controller)
 - **Email:** nediusman92@gmail.com
 - **Instagram:** [@alehmudin](https://www.instagram.com/alehmudin?igsh=MTRic210Z24zOXFwNw==)
 - **Twitter:** [@nediusmanx](https://x.com/nediusmanx?t=w3uSpixDcrx-w_HjNrYKvg&s=09)
-- **Telegram:** @alehmudin
+- **Telegram:** [@alehmudin](https://t.me/alehmudin)
 
 ### 🚀 Services Offered
 - Full-Stack Web Development
