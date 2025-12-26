@@ -84,19 +84,19 @@ npm run dev
 
 ### Test the echo endpoint:
 ```bash
-curl -X POST http://localhost:3000/echo \
+curl -X POST http://localhost:4000/echo \
   -H "Content-Type: application/json" \
   -d '{"name": "John", "message": "Hello World"}'
 ```
 
 ### Get developer contact info:
 ```bash
-curl http://localhost:3000/contact
+curl http://localhost:4000/contact
 ```
 
 ### Get personalized greeting:
 ```bash
-curl http://localhost:3000/greeting
+curl http://localhost:4000/greeting
 ```
 
 ## 🌟 Why Choose This Developer?
